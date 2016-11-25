@@ -1,11 +1,11 @@
 {
-  "name": "yopro",
+  "name": "slush-yopro",
   "version": "1.0.0",
   "description": "a slush generator for slim yo-yo/redux projects",
   "main": "slushfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josephquested/yopro.git"
+    "url": "git+https://github.com/josephquested/slush-yopro.git"
   },
   "keywords": [
     "slushgenerator",
@@ -15,9 +15,9 @@
   "author": "josephquested",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josephquested/yopro/issues"
+    "url": "https://github.com/josephquested/slush-yopro/issues"
   },
-  "homepage": "https://github.com/josephquested/yopro#readme",
+  "homepage": "https://github.com/josephquested/slush-yopro#readme",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-conflict": "^0.4.0",
