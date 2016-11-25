@@ -1,13 +1,13 @@
-# yopro
+# slush-yopro
 
 > a slush generator for slim yo-yo/redux apps
 
 ## Getting Started
 
-Install `slush` and `yopro` globally:
+Install `slush` and `slush-yopro` globally:
 
 ```bash
-$ npm install -g slush yopro
+$ npm install -g slush slush-yopro
 ```
 
 ### Usage
