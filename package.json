@@ -1,6 +1,6 @@
 {
   "name": "slush-yopro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a slush generator for slim yo-yo/redux projects",
   "main": "slushfile.js",
   "repository": {
