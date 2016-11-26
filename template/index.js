@@ -13,7 +13,7 @@ store.subscribe(() => {
   morphdom(app, view)
 })
 
-var render = (state, dispatch) => {
+function render (state, dispatch) {
   return require('./components/app')(state, store.dispatch)
 }
 
