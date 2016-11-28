@@ -17,7 +17,7 @@ gulp.task('default', function (done) {
     type: 'input',
     name: 'description',
     message: 'now describe it:',
-    default: "neat app"
+    default: "i am a yopro"
   }, {
     type: 'input',
     name: 'author',
