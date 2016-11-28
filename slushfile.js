@@ -44,7 +44,7 @@ gulp.task('default', function (done) {
         dot: true
       })
         // Lodash template support
-        .pipe(template(answers))
+        .pipe(template(answers, {interpolate : /<%=([\s\S]+?)%>/g }))
         // Rename dotfiles
         .pipe(rename(function (file) {
           if (file.basename[0] === '_') {
